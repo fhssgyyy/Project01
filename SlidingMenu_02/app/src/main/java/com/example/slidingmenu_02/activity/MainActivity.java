@@ -16,7 +16,7 @@ import android.widget.Toast;
 import com.example.slidingmenu_02.R;
 import com.example.slidingmenu_02.fragment.LeftFragment;
 import com.jeremyfeinstein.slidingmenu.lib.SlidingMenu;
-
+//修改之后的代码
 import org.xutils.common.Callback;
 import org.xutils.http.RequestParams;
 import org.xutils.x;
